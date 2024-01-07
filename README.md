@@ -11,7 +11,7 @@
 ### Phone : 7083204629
 
 
-## Installation
+# Installation
 
 ### Install required libraries
 pip install requirements.txt
@@ -23,14 +23,14 @@ python run.py
 ![results](https://github.com/saurabh00031/aicure_Rising_Apexx/assets/85858942/16d646bb-d4f4-4ab9-8de9-624bacec6ec7)
 
 
-## Task
+# Task
 The goal is to construct an advanced model capable of accurately predicting an individual's heart rate.The dataset encompasses diverse attributes derived from signals measured through ECG recordings for various individuals, each exhibiting different heart rates at the respective time of measurement. These features collectively contribute to determining the heart rate at the specific moment for each individual.
 
-## File Descriptions
+# File Descriptions
 
 The dataset is provided in `train_data.csv`.  
 
-## Data Dictionary
+# Data Dictionary
 
 Following is the data dictionary for the features you will come across in the files mentioned:
 
@@ -72,7 +72,7 @@ Following is the data dictionary for the features you will come across in the fi
 - `condition`: Condition of the patient at the time the data was recorded
 - `HR`: Heart rate of the patient at the time of data recorded
 
-## Submission Details
+# Submission Details
 In addition to the Jupyter notebook containing your experiments, you are required to provide a file named `run.py`. This script should utilize your final model and accept the input file `test_data.csv` as a command line argument. The output of the script should be a file named `results.csv` that contains the predicted Heart Rate values.
 
 Evaluation of submissions will be based on a separate set of test data that is not disclosed to participants. For reference, a sample test data file named `sample_test_data.csv` and the expected output file `sample_output_generated.csv` are provided.
