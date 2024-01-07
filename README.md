@@ -15,6 +15,9 @@ pip install requirements.txt
 python run.py
 
 
+![results](https://github.com/saurabh00031/aicure_Rising_Apexx/assets/85858942/16d646bb-d4f4-4ab9-8de9-624bacec6ec7)
+
+
 ## Task
 The goal is to construct an advanced model capable of accurately predicting an individual's heart rate.The dataset encompasses diverse attributes derived from signals measured through ECG recordings for various individuals, each exhibiting different heart rates at the respective time of measurement. These features collectively contribute to determining the heart rate at the specific moment for each individual.
 
