@@ -2,8 +2,13 @@
 
 ## Team details : (Team Name : Rising Apexx)
 
-Saurabh Santosh Patil (Team Leader)
-Shruti Ramesh Gujar (Team Member)
+### Saurabh Santosh Patil (Team Leader)
+### Email : patilsaurabh7777777@gmail.com
+### Phone : 7083204629
+
+### Shruti Ramesh Gujar (Team Member)
+### Email : shrutigujar702@gmail.com
+### Phone : 7083204629
 
 
 ## Installation
